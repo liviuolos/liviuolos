@@ -205,8 +205,4 @@ pie title Pilot effort (rough split)
 | Resorts / leisure | experience + upsell | pumptrack + skate + “instagrammable” furniture | experience concept + traffic flow + signage | dwell time ↑ |
 | SMEs (any sector) | manual ops + slow follow-up | AI adoption + workflow automation | 1–3 workflows automated + training | hours saved/week ↑ |
 
----
 
-### Note about GitHub rendering (so expectations are correct)
-GitHub profile READMEs render **Markdown** (and Mermaid diagrams), but they **do not run JavaScript**.  
-If you want the full interactive HTML profile, the clean route is **GitHub Pages** (and then link it from here).
