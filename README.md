@@ -11,7 +11,9 @@ I'm **Liviu Virgil Olos** — a **Strategic Connector** who helps teams **bind l
 - GitHub: https://github.com/liviuolos  
 - Loftrek: https://www.loftrek.ro  
 - AdoptUn.AI: https://adoptaun.ai  
-- liviu.ai: https://liviu.ai  
+- liviu.ai: https://liviu.ai
+- 1y1.ai: https://1y1.ai
+- 1tn.ai: https://1tn.ai
 
 ### Contact (human-friendly)
 - ✅ **Message me on LinkedIn** for anything time-sensitive.
